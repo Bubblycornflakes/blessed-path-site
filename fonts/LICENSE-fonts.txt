@@ -1,0 +1,4 @@
+Lora (c) The Lora Project Authors (https://github.com/cyrealtype/Lora)
+Montserrat (c) The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+
+Both typefaces are licensed under the SIL Open Font License, Version 1.1: https://openfontlicense.org
