@@ -39,7 +39,7 @@ IN NUMBERS
 - 0 accounts, servers, trackers or ads
 
 THE STORY
-Gracious Path was made by one person, Aslam, who isn't a programmer. The idea was simple: one calm app that nudges you to be a little kinder each day, with no account, no ads and no streak counter to make you feel bad on a quiet day. Nothing like it existed, so Aslam built it.
+Gracious Path was made by one person, Aslam. The idea was simple: one calm app that nudges you to be a little kinder each day, with no account, no ads and no streak counter to make you feel bad on a quiet day. Nothing like it existed, so Aslam built it.
 
 "I wanted one calm thing on my phone that nudged me to be a bit kinder each day. I couldn't find it, so I built it." Aslam, maker of Gracious Path
 
